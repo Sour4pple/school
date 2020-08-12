@@ -1,0 +1,8 @@
+<tr><td>sdsd</td><td>dsds</td><td>sdsd</td><td>Verschaerft</td><td></td><td>Medikament</td></tr>
+<tr><td>2e24</td><td>354534</td><td>53454</td><td>Rezeptfrei</td><td>Ja</td><td>Andere</td></tr>
+<tr><td>dwdd</td><td>wdwd</td><td>dwd</td><td>Verschaerft</td><td></td><td>Aufbauepreparat</td></tr>
+<tr><td>dwdwd</td><td>wdwd</td><td>wdwd</td><td>Verschaerft</td><td>Ja</td><td>Medikament</td></tr>
+<tr><td></td><td>abcd</td><td></td><td>Rezeptpflichtig</td><td></td><td>Schoenheit</td></tr>
+<tr><td>fdfeef</td><td>efef</td><td>effefefef</td><td>Rezeptfrei</td><td>Ja</td><td>Medikament</td></tr>
+<tr><td>cdcdcdc</td><td>dcdcdcdcdc</td><td>dcdcdcdc</td><td>Verschaerft</td><td></td><td>Medikament</td></tr>
+<tr><td>dsdss</td><td>sdsddss</td><td>sdssds</td><td>Rezeptpflichtig</td><td>Ja</td><td>Sanitaetsartikel</td></tr>

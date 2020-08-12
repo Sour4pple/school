@@ -1,0 +1,30 @@
+Name: Bühler
+Vorname: Tim
+Strasse: a
+Ort: b
+PLZ: 8000
+E-Mail: a@b.com
+Tel: 0444444444
+Motorrad: Yamaha
+Modell: FZ8n
+Farbe: Weiss
+Name: 
+Vorname: 
+Strasse: 
+Ort: 
+PLZ: 
+E-Mail: 
+Tel: 
+Motorrad: 
+Modell: 
+Farbe: 
+Name: asdf
+Vorname: asdf
+Strasse: sdf
+Ort: sdf
+PLZ: 6444
+E-Mail: dsd@fefd.com
+Tel: +41444444444
+Motorrad: Yamaha
+Modell: XJ6
+Farbe: Schwarz

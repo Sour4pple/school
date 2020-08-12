@@ -1,0 +1,42 @@
+.lightblue {
+	background-color: lightblue;
+}
+.nav {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+}
+.nav li {
+	float: left;
+	padding-right: 5px;
+}
+.active a {
+	text-decoration: none;
+	color: black;
+}
+.erfassen {
+	padding-left: 200px;
+}
+.liste {
+	background-color: lightblue;
+	border-spacing: 0px;	
+}
+.title td {
+	font-weight: bold;
+}
+.liste tr td {
+	padding: 5px;
+}
+.liste tr:nth-child(even) {
+    background-color: white;
+}
+#Bezeichnung {
+	width: 400px;
+}
+#Artikel-Nr {
+	
+}
+#Lagerbestand {
+	width: 120px;
+}
