@@ -8,5 +8,5 @@ m159 - Directoryservices konfigurieren (5.5 grade)
   Microsoft Active Directory based module, in which i decided to do all the task with powershell scripts.
   
 m307 - Interaktive Website erstellen (6 grade)
-  This module was optional. Mostly HTML, PHP, Javascript with mysql backend.
+  This module was optional. Mostly HTML, CSS, PHP, Javascript with mysql backend.
   
